@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby PWA Starter`,
-    description: `Kick off your next PWA, great Gatsby project with this default starter. This starter ships with the main Gatsby configuration files you might need plus some basics for PWA's.`,
+    title: `Gatsby PWA Polling App`,
+    description: `Gatsby PWA Polling App`,
     author: `@paulbriar`,
   },
   plugins: [
@@ -13,6 +13,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    'gatsby-plugin-styled-components',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

@@ -1,7 +1,7 @@
 {
-  "name": "pwa-starter",
+  "name": "polling-app",
   "private": true,
-  "description": "Paul's PWA Start",
+  "description": "Gatsby PWA Polling App",
   "version": "0.1.0",
   "author": "Paul Briar <paul@paulbriar.com>",
   "format": "prettier --write \"src/**/*.{js,jsx}\"",
