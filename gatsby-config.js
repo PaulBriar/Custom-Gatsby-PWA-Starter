@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `Gatsby PWA Starter`,
     description: `Kick off your next PWA, great Gatsby project with this default starter. This starter ships with the main Gatsby configuration files you might need plus some basics for PWA's.`,
     author: `@paulbriar`,
   },
